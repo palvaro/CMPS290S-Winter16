@@ -45,5 +45,22 @@ Students must submit a final project related to distributed storage systems and/
  
 Re-submitting a paper already submitted in any form to a class from a previous semester is not allowed.  Submitting a paper concurrently to another class is allowed only with pre-approval from the instructor.  In such cases, as with group papers, I expect the work to be exceptionally strong.
 
+# Grading
+
+| Subject | Share |
+|-------|---------|
+| Paper summaries | 20% |
+| Participation | 20% |
+| Presentations | 20% |
+| Project | 40% |
+
+Final projects are required to pass the course.  The fact that participation accounts for 20% of the grade should give you an idea of the important of class attendance.  
+
+# Academic honesty
+
+Collaboration is a key part of research.  I encourage you to discuss the readings and the final project ideas with your classmates.  However, you must reveal the students with whom you discussed the papers in your summaries.  Failure to do so will result in formal disciplinary proceedings.  
+
+I should not need to say so, but I do: plagiarism in any form is not acceptable and will not be tolerated.  As researchers, we always stand upon the shoulders of giants, and building upon existing work is the norm.  It is essential, however, that we provide proper attribution.  When in doubt, cite!  Missing a relevant piece of related work is an embarassment for the any  researcher; failure to cite a direct influence is dishonest.  The related work section is one of the most critical parts of any paper: spend an adequate amount of time on it.
+
 
 

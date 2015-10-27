@@ -18,11 +18,14 @@ This course focuses on these systems, models and languages.  We will cover the f
  
 
  * Consistency models
- * Key/value storage systems
+ * Large-scale storage systems
+ * Data processing frameworks
  * Commit, consensus and synchronization protocols
  * Data replication and partitioning
  * Fault-tolerant design
- * Programming model
+ * Programming models
+ * Distributed programming languages
+ * Program analysis
  * Seminal theoretical results in distributed systems
  
 # Readings

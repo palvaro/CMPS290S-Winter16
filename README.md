@@ -1,13 +1,14 @@
 # CMPS290S-Winter16: distributed storage systems and programming models
 
-When: Tuesdays and Thursdays at 1PM.
-Where: ??
-Who: Peter Alvaro
-Prerequisites: Systems background
+|-----|-------|
+|When: | Tuesdays and Thursdays at 1PM. |
+|Where: | ?? |
+|Who: | Peter Alvaro |
+|Prerequisites: | Systems background |
 
 # Description
 
-This graduate seminar will explore distributed systems, both current and historical, with a particular focus on storage systems and programming models.
+This graduate seminar will explore distributed systems research, both current and historical, with a particular focus on storage systems and programming models.
 
 Due to fundamental uncertainty in their executions arising from asynchronous communication and partial failure, distributed systems present unique challenges to programmers and users.  Moreover, distributed systems are increasingly ubiquitous: nearly all non-trivial systems are now physically distributed.  
 

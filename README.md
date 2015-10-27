@@ -16,10 +16,14 @@ A great deal of theoretical work in distributed systems establishes important im
 
 This course focuses on these systems, models and languages.  We will cover the following topics:
  
+
  * Consistency models
+ * Key/value storage systems
+ * Commit, consensus and synchronization protocols
+ * Data replication and partitioning
  * Fault-tolerant design
- * Issues related to programmability
- * 
+ * Programming model
+ * Seminal theoretical results in distributed systems
  
 # Readings
 

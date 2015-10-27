@@ -23,13 +23,13 @@ This course focuses on these systems, models and languages.  We will cover the f
  
 # Readings
 
-This course is a research seminar: we will focus primarily on reading and discussion conference papers.  We will read 1-2 papers (typically 2) per session; for each paper, you will provide a brief summary (about 1 page).  The summary should answer some or all of the following questions:
+This course is a research seminar: we will focus primarily on reading and discussing conference papers.  We will read 1-2 papers (typically 2) per session; for each paper, you will provide a brief summary (about 1 page).  The summary should answer some or all of the following questions:
 
  * What problem does the paper solve?  Is is important?
  * How does it solve the problem? 
  * What alternative approaches are there? Are they adequately discussed in the reading?
  * What research questions does the paper raise?
- * 
+ 
  
 # Presentations
 

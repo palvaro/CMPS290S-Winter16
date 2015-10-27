@@ -1,5 +1,5 @@
 # CMPS290S-Winter16: distributed storage systems and programming models
-
+| key | value | 
 |-----|-------|
 |When: | Tuesdays and Thursdays at 1PM. |
 |Where: | ?? |

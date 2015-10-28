@@ -34,7 +34,8 @@ This course is a research seminar: we will focus primarily on reading and discus
  * What problem does the paper solve?  Is is important?
  * How does it solve the problem? 
  * What alternative approaches are there? Are they adequately discussed in the reading?
- * What research questions does the paper raise?
+ * How does this work relate to other research, whether covered in this course or not?
+ * What specific research questions, if any, does the paper raise for you?
  
  
 # Presentations

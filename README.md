@@ -18,8 +18,7 @@ This course focuses on these systems, models and languages.  We will cover the f
  
 
  * Consistency models
- * Large-scale storage systems
- * Data processing frameworks
+ * Large-scale storage systems and data processing frameworks
  * Commit, consensus and synchronization protocols
  * Data replication and partitioning
  * Fault-tolerant design

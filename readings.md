@@ -1,9 +1,9 @@
 | Date | Subject | Readings |
 |------|-----|------|
 |1/5 | Welcome | |
-| 1/7 | Fundamentals: Doom and gloom |<ul><li> [A note on distributed computing](http://theory.stanford.edu/people/jcm/cs358-96/spring-os.ps) </li> <li> [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)</li></ul>|
-|1/12 | Fundamentals: Rays of Hope |<ul><li>[Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail](https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf)</li><li>[The Weakest Failure Detector for Solving Consensus](http://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p685-chandra.pdf)</li></ul> |
-|1/14| Fundamentals: What we know | <ul><li>[Using Reasoning About Knowledge to analyze Distributed Systems](https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf)</li><li></li><ul> |
+| 1/7 | Fundamentals: doom and gloom |<ul><li> [A note on distributed computing](http://theory.stanford.edu/people/jcm/cs358-96/spring-os.ps) </li> <li> [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)</li></ul>|
+|1/12 | Fundamentals: rays of hope |<ul><li>[Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail](https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf)</li><li>[The Weakest Failure Detector for Solving Consensus](http://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p685-chandra.pdf)</li></ul> |
+|1/14| Fundamentals: what we know | <ul><li>[Using Reasoning About Knowledge to analyze Distributed Systems](https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf)</li><li></li><ul> |
 |1/19| Storage: conflicts and consistency 1 | <ul><li>[Concurrency Control in Distributed Database Systems](https://www.cs.berkeley.edu/~brewer/cs262/concurrency-distributed-databases.pdf)</li><ul> | 
 |1/21| Storage: naming and finding | <ul><li>[Chord: A Scalable Peer-to-peer Lookup Service for InternetApplications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)</li><li>[Internet Indirection Infrastructure](http://www.cs.berkeley.edu/~istoica/papers/i3-sigcomm02.pdf)</li><ul>
 |1/26| Guest Lecturer | Kyle Kingsbury | 

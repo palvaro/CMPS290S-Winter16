@@ -5,6 +5,7 @@
 |Where: | ?? |
 |Who: | Peter Alvaro |
 |Prerequisites: | A background in systems and an interest in theory |
+|Readings: | [Readings](https://github.com/palvaro/CMPS290S-Winter16/blob/master/readings.md)|
 
 # Description
 

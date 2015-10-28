@@ -4,7 +4,7 @@
 |When: | Tuesdays and Thursdays at 1PM. |
 |Where: | ?? |
 |Who: | Peter Alvaro |
-|Prerequisites: | Systems background |
+|Prerequisites: | A background in systems and an interest in theory |
 
 # Description
 

@@ -2,7 +2,7 @@
 ## Distributed storage systems and programming models
 | key | value | 
 |-----|-------|
-|When: | Tuesdays and Thursdays at 1PM. |
+|When: | Tuesdays and Thursdays at <b>Noon</b>. |
 |Where: | ?? |
 |Who: | Peter Alvaro |
 |Prerequisites: | A background in systems and an interest in theory |

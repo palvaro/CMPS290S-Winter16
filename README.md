@@ -3,7 +3,7 @@
 | key | value | 
 |-----|-------|
 |When: | Tuesdays and Thursdays at <b>Noon</b>. |
-|Where: | ?? |
+|Where: | Social Sciences 2, 159 |
 |Who: | Peter Alvaro |
 |Prerequisites: | A background in systems and an interest in theory |
 |Readings: | [Readings](https://github.com/palvaro/CMPS290S-Winter16/blob/master/readings.md) (volatile; subject to significant change)|

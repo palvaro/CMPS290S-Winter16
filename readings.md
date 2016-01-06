@@ -12,7 +12,7 @@
 |2/4| Storage: very large scale | <ul><li>[The Google File System](http://research.cs.wisc.edu/areas/os/Qual/papers/gfs.pdf)</li><li>??</li></ul>
 |2/9| Programming models: the classics| <ul><li>Generative Communication in Linda (can't find free)</li><li>[DISTRIBUTED PROGRAMMING IN ARGUS](https://people.csail.mit.edu/alinush/6.824-spring-2015/papers/argus88.pdf)</li></ul>|
 |2/11| Programming models: Actors | <ul><li>[A Universal Modular ACTOR Formalism for Artificial Intelligence](http://worrydream.com/refs/Hewitt-ActorModel.pdf)</li><li>[Orleans: Distributed Virtual Actors for Programmability and Scalability](http://research.microsoft.com/pubs/210931/Orleans-MSR-TR-2014-41.pdf)</li><li>Reactors: a data-oriented synchronous/asynchronous programming model for distributed applications (can't find free)</li></ul>|
-|2/16| Guest Lecturer: Doug Terry|
+|2/16| Guest Lecture | Doug Terry|
 |2/18| Programming models: potpourri | <ul><li>[The Orc Programming Language](http://orc.googlecode.com/svn-history/r2526/trunk/Website/papers/forte09.pdf)</li><li>[BOOM Analytics](http://db.cs.berkeley.edu/papers/eurosys10-boom.pdf)</li>|
 |2/23| Coordination and availability | <ul><li>[Towards a Cloud Computing Research Agenda](https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf)</li><li>[Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf)</li></ul>|
 |2/25| Guest Lecture | Caitie McCaffrey |

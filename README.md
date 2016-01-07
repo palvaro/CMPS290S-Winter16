@@ -5,6 +5,7 @@
 |When: | Tuesdays and Thursdays at <b>Noon</b>. |
 |Where: | Social Sciences 2, 159 |
 |Who: | Peter Alvaro |
+|Office hours: | Tue 2-3pm, Thu 10:45 - 11:45 |
 |Prerequisites: | A background in systems and an interest in theory |
 |Readings: | [Readings](https://github.com/palvaro/CMPS290S-Winter16/blob/master/readings.md) (volatile; subject to significant change)|
 

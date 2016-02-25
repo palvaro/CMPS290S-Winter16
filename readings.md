@@ -17,8 +17,8 @@
 |2/23| Coordination and availability | <ul><li>[Towards a Cloud Computing Research Agenda](https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf)</li><li>[Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf)</li></ul>|
 |2/25| Guest Lecture | Caitie McCaffrey |
 |3/1| Guest Lecture | Pat Helland|
-|3/3| Coordination: Paxos | <ul><li>[Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)</li><li>[Paxos for System Builders](http://www.cs.jhu.edu/~jak/docs/paxos_for_system_builders.pdf)</li><li>OPTIONAL: the part-time parliament</li></ul>|
+|3/3| Guest Lecture | <ul><li>Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)[</li><li>[Paxos for System Builders](http://www.cs.jhu.edu/~jak/docs/paxos_for_system_builders.pdf)</li><li>OPTIONAL: the part-time parliament</li></ul>|
 |3/8| Avoiding coordination 1 | <ul><li>[A comprehensive study of Convergent and Commutative Replicated Data Types](http://hal.upmc.fr/inria-00555588/document)</li><li>[Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf)</li></ul>|
-|3/10| Avoiding coordination 2 | <ul><li>[HAT, not CAP: Towards Highly Available Transactions](http://www.bailis.org/papers/hat-hotos2013.pdf)</li><li>RAMP, unless I can think of better work that peter bailis didn't do</li></ul>|
+|3/10| Avoiding coordination 2 | <ul><li>[Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)</li><li>[In Search of an Understandable Consensus Algorithm](http://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)</li></ul>|
 
 

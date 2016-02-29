@@ -18,7 +18,8 @@
 |2/25| Guest Lecture | Caitie McCaffrey |
 |3/1| Guest Lecture | Pat Helland |
 |3/3| Guest Lecture | Doug Terry |
-|3/8| Avoiding coordination 1 | <ul><li>[A comprehensive study of Convergent and Commutative Replicated Data Types](http://hal.upmc.fr/inria-00555588/document)</li><li>[Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf)</li></ul>|
-|3/10| Avoiding coordination 2 | <ul><li>[Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)</li><li>[In Search of an Understandable Consensus Algorithm](http://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)</li></ul>|
+|3/8| Avoiding coordination 2 | <ul><li>[Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)</li><li>[In Search of an Understandable Consensus Algorithm](http://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)</li></ul>|
+|3/10| Avoiding coordination 1 | <ul><li>[A comprehensive study of Convergent and Commutative Replicated Data Types](http://hal.upmc.fr/inria-00555588/document)</li><li>[Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf)</li></ul>|
+
 
 
